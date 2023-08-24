@@ -65,7 +65,7 @@ Webshop includes some info pages and a blog.
 ## Sportna zveza Slovenj Gradec
 Wordpress webpage made for sports association. It includes blog, gallery, files manager, file downloader and news.
 
-## PeEanac in Rakun
+## Pečanac in Rakun
 Wordpress page with a Vue frontend. Including forms, pages and blogs.
 
 ## Penel Premium decor
@@ -92,7 +92,7 @@ One of the biggest car services groups in Slovenia and Adria (but under a differ
 
 Technologies are the same as VCAG, but I was also asked to develop a Python scraper with integrated proxies and a React Native app that reads viachel information from the ODB port and reports it to our servers. Talks of person WIFI/Bluetooth triangulation based indoor tracking were made, but project never came to tuition or over technical design stage.
 
-## Prostot6
+## Prostor6
 Simple PHP with jQuery.
 
 ## Mašina (internal KMAG/VCAG portal)

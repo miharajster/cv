@@ -36,3 +36,45 @@ Simple Android app with PHP API that displayed Spider-man memes to hundreds of u
 Android app build for bus transportation time tables. Used by many local students for their daily commute.
 
 Those are jsut some of my projects. There are too much to list.
+
+### Professional projects
+## Ineor & Greentube
+XXXXXXXX medical front end for IOT infrastructure. Made with Angular and Python.
+Swissloss XXXXXXX - code redesign and user flow changes in an online casino game made in Next and Angular.
+Swissloss XXXXXXX internal testing terminal - game testing terminal made with Angular.
+XXXXX - internal project for cataloguing employees and delegating them to their projects based on their skillsets.
+
+X = reducted
+
+## The Honey Bee Club
+International NFT Ethereum project that was designed to help bees. Made in Vue and CSS3 animations.
+
+## Bodifit
+Wordpress webshop made for high traffic.
+Webshop includes some info pages and a blog.
+
+## Sportna zveza Slovenj Gradec
+Wordpress webpage made for sports association. It includes blog, gallery, files manager, file downloader and news.
+
+## PeEanac in Rakun
+Wordpress page with a Vue frontend. Including forms, pages and blogs.
+
+## Penel Premium decor
+Wordpress page with blog pages and a gallery.
+
+## VOLVO Adria Group (VCAG)
+Pages built on PHP customized MVC CakePHP for 7 markets (Sl, HR, BA, ME, MK, RS, AL).
+Other technologies include but are not limited to: PHP, jQuery, CSS3 animations, Vue.
+I was also asked to do design work, that was mainly web based (banners, backdrops and webpages), but also some ment for printing.
+Pages can be seen on: [www.volvocenter.si](www.volvocenter.si)
+
+## KIA Adria Group (KMAG)
+## ServiceMAXX
+## Prostot6
+## Mašina (internal KMAG/VCAG portal)
+## Ekosol
+## COMMIT
+## Transstar-Europa
+## DS2
+## Leoni
+## The rest

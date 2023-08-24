@@ -120,3 +120,5 @@ IT works, Linux administrator, main designer and web-dev.
 
 ## The rest
 IIBA.si, ModriBit, Dodatnizasluzek, Ekokoticek, Premiki, OC-lab, TMX-Racing, EWM, Samec.si...
+
+[More...](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)

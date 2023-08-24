@@ -71,12 +71,37 @@ I was also asked to do design work, that was mainly web based (banners, backdrop
 Pages can be seen on: [www.volvocenter.si](www.volvocenter.si)
 
 ## KIA Adria Group (KMAG)
+Also built on customized MVC CakePHP but only for 6 markets (Sl, HR, BA, ME, KO, RS).
+Technologies used are the same as for VCAG and I was also a designer.
+Pages can be seen on: [www.kia.si](www.kia.si)
+
 ## ServiceMAXX
+One of the biggest car services groups in Slovenia and Adria (but under a different name).
+Technologies are the same as VCAG, but I was also asked to develop a Python scraper with integrated proxies and a React Native app that reads viachel information from the ODB port and reports it to our servers. Talks of person WIFI/Bluetooth triangulation based indoor tracking were made, but project never came to tuition or over technical design stage.
+
 ## Prostot6
+Simple PHP with jQuery.
+
 ## Mašina (internal KMAG/VCAG portal)
+Internal portal for employees of VCAG, KMAG and ServiceMAXX.
+
 ## Ekosol
+Magento GDPR Plugin and web optimization.
+
 ## COMMIT
+Online shop made on Wordpress.
+
+## TUR-TV
+Late night information TV program that displayed weather, cameras and weather updates. HTML and jQuery. I also designed it.
+
 ## Transstar-Europa
+Multilanguage Wordpress page with a forum.
+
 ## DS2
+Main designer and web-dev.
+
 ## Leoni
+IT works, Linux administrator, main designer and web-dev.
+
 ## The rest
+IIBA.si, ModriBit, Dodatnizasluzek, Ekokoticek, Premiki, OC-lab, TMX-Racing, EWM, Samec.si...

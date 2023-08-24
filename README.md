@@ -1,6 +1,4 @@
-<div
-  style="background-color: green; border 1px solid darkgreen; border-radius: 5px;"> 
-  Please download a PDF, this is just undesigned text </div>
+[Please download a PDF, this is just undesigned text](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)
 
 # Mihael Rajšter
 ## FULL STACK DEVELOPER

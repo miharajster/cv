@@ -1,8 +1,4 @@
-<img style="display:inline-block" width="33%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/CV%20-%20Mihael%20Rajster%20-%20Full%20stack_pages-to-jpg-0001.jpg"/>
-<img style="display:inline-block" width="33%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/CV%20-%20Mihael%20Rajster%20-%20Full%20stack_pages-to-jpg-0002.jpg"/>
-<img style="display:inline-block" width="33%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/CV%20-%20Mihael%20Rajster%20-%20Full%20stack_pages-to-jpg-0003.jpg"/>
-<img style="display:inline-block" width="50%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/CV%20-%20Mihael%20Rajster%20-%20Full%20stack_pages-to-jpg-0004.jpg"/>
-<img style="display:inline-block" width="50%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/CV%20-%20Mihael%20Rajster%20-%20Full%20stack_pages-to-jpg-0005.jpg"/>
+<img width="25%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/CV%20-%20Mihael%20Rajster%20-%20Full%20stack_pages-to-jpg-0001.jpg"/>
 
 [Please download a PDF, this is just undesigned text](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)
 

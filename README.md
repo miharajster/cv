@@ -1,29 +1,22 @@
-<img width="25%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/CV%20-%20Mihael%20Rajster%20-%20Full%20stack_pages-to-jpg-0001.jpg"/>
-
-[Please download a PDF, this is just undesigned text](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)
-
+<img width="25%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/cv_banner.jpg"/>
+[Please download a PDF, this is just undesigned text](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)<br/>
 [Don't forget to take a look at my LinkedIn for more](https://www.linkedin.com/in/miharajster/)
 
 # Mihael Rajšter
 ## FULL STACK DEVELOPER
-### Address
-Ulica Matija Tomca 2
-
-1230 Domžale
-
+<code>
+Ulica Matija Tomca 2<br/>
+1230 Domžale<br/>
 Slovenia
 
-### Citizenship
-Slovenian
+Citizenship: Slovenian
 
-### Date of birth
-28.9. 1987
+Date of birth: 28.9. 1987
 
-### Email
-rajstermiha@gmail.com
+Email: rajstermiha@gmail.com
 
-### Telephone
-+386 31 655 642
+Telephone: +386 31 655 642
+</code>
 
 ## REFERENCES
 ### Personal projects

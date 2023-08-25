@@ -3,8 +3,12 @@
 [Please download a PDF, this is just undesigned text](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)<br/>
 [Don't forget to take a look at my LinkedIn for more](https://www.linkedin.com/in/miharajster/)
 
-# Mihael Rajšter
-## FULL STACK DEVELOPER
+- [Intro](https://github.com/miharajster/cv)
+- [References](https://github.com/miharajster/cv#references)
+  - [Personal projects](https://github.com/miharajster/cv#personal-projects)
+  - [Profesional projects](https://github.com/miharajster/cv#professional-projects)
+
+# Mihael Rajšter - FULL STACK DEVELOPER
 Ulica Matija Tomca 2<br/>
 1230 Domžale<br/>
 Slovenia
@@ -38,7 +42,7 @@ Android app build for bus transportation time tables. Used by many local student
 Those are jsut some of my projects. There are too much to list.
 
 ### Professional projects
-## Ineor & Greentube
+#### Ineor & Greentube
 XXXXXXXX medical front end for IOT infrastructure. Made with Angular and Python.
 
 Swissloss XXXXXXX - code redesign and user flow changes in an online casino game made in Next and Angular.
@@ -49,23 +53,23 @@ XXXXX - internal project for cataloguing employees and delegating them to their 
 
 X = reducted
 
-## The Honey Bee Club
+#### The Honey Bee Club
 International NFT Ethereum project that was designed to help bees. Made in Vue and CSS3 animations.
 
-## Bodifit
+#### Bodifit
 Wordpress webshop made for high traffic.
 Webshop includes some info pages and a blog.
 
-## Sportna zveza Slovenj Gradec
+#### Sportna zveza Slovenj Gradec
 Wordpress webpage made for sports association. It includes blog, gallery, files manager, file downloader and news.
 
-## Pečanac in Rakun
+#### Pečanac in Rakun
 Wordpress page with a Vue frontend. Including forms, pages and blogs.
 
-## Penel Premium decor
+#### Penel Premium decor
 Wordpress page with blog pages and a gallery.
 
-## VOLVO Adria Group (VCAG)
+#### VOLVO Adria Group (VCAG)
 Pages built on PHP customized MVC CakePHP for 7 markets (Sl, HR, BA, ME, MK, RS, AL).
 
 Other technologies include but are not limited to: PHP, jQuery, CSS3 animations, Vue.
@@ -74,43 +78,43 @@ I was also asked to do design work, that was mainly web based (banners, backdrop
 
 Pages can be seen on: [www.volvocenter.si](www.volvocenter.si)
 
-## KIA Adria Group (KMAG)
+#### KIA Adria Group (KMAG)
 Also built on customized MVC CakePHP but only for 6 markets (Sl, HR, BA, ME, KO, RS).
 
 Technologies used are the same as for VCAG and I was also a designer.
 
 Pages can be seen on: [www.kia.si](www.kia.si)
 
-## ServiceMAXX
+#### ServiceMAXX
 One of the biggest car services groups in Slovenia and Adria (but under a different name).
 
 Technologies are the same as VCAG, but I was also asked to develop a Python scraper with integrated proxies and a React Native app that reads viachel information from the ODB port and reports it to our servers. Talks of person WIFI/Bluetooth triangulation based indoor tracking were made, but project never came to tuition or over technical design stage.
 
-## Prostor6
+#### Prostor6
 Simple PHP with jQuery.
 
-## Mašina (internal KMAG/VCAG portal)
+#### Mašina (internal KMAG/VCAG portal)
 Internal portal for employees of VCAG, KMAG and ServiceMAXX.
 
-## Ekosol
+#### Ekosol
 Magento GDPR Plugin and web optimization.
 
-## COMMIT
+#### COMMIT
 Online shop made on Wordpress.
 
-## TUR-TV
+#### TUR-TV
 Late night information TV program that displayed weather, cameras and weather updates. HTML and jQuery. I also designed it.
 
-## Transstar-Europa
+#### Transstar-Europa
 Multilanguage Wordpress page with a forum.
 
-## DS2
+#### DS2
 Main designer and web-dev.
 
-## Leoni
+#### Leoni
 IT works, Linux administrator, main designer and web-dev.
 
-## The rest
+#### The rest
 IIBA.si, ModriBit, Dodatnizasluzek, Ekokoticek, Premiki, OC-lab, TMX-Racing, EWM, Samec.si...
 
 [More...](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)

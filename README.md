@@ -5,7 +5,6 @@
 
 # Mihael Rajšter
 ## FULL STACK DEVELOPER
-<code>
 Ulica Matija Tomca 2<br/>
 1230 Domžale<br/>
 Slovenia
@@ -17,7 +16,6 @@ Date of birth: 28.9. 1987
 Email: rajstermiha@gmail.com
 
 Telephone: +386 31 655 642
-</code>
 
 ## REFERENCES
 ### Personal projects

@@ -1,4 +1,5 @@
-<img width="25%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/cv_banner.jpg"/>
+<img width="100%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/cv_banner.jpg"/>
+
 [Please download a PDF, this is just undesigned text](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)<br/>
 [Don't forget to take a look at my LinkedIn for more](https://www.linkedin.com/in/miharajster/)
 

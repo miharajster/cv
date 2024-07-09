@@ -216,7 +216,7 @@ Those are just some of my projects. There are too many to list.
 
 ## Additional Experiences
 **Hobbies:** ARM development (Raspberry Pi, BeagleBone), ESP32 (Arduino), Atmel (Arduino), Gaming (Nintendo Switch and PC), Biohacking  
-**Teaching:** Official mentor for two new recruits, providing web-dev and Photoshop instructions.
+**Teaching:** Mentor for many new minds. I mostly mentor on business, learning and communication. But simetimes I do technical skills too. I just think, that those must be learned alone.
 
 ## Software Tools Knowledge
 

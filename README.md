@@ -63,7 +63,7 @@ KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Sava...
 **Notable Projects:**
 - **Pharaon / CareRisk logo design:** Designed a logo for the Pharaon / CareRisk project.
 - **Gooaal - Swissloss - Leap:** Modified gameplay and payment systems.
-- **Pharaon:** Led front-end development, writing in Angular, using technologies like WebSockets and OAuth, in collaboration with the EU and Ericsson.
+- **Pharaon:** Lead front-end development, writing in Angular, using technologies like WebSockets and OAuth, in collaboration with the EU and Ericsson.
 
 #### Greco Software
 **Skills:** SASS, Android Development, Git, Webpack, PHP Frameworks, Web Development, OpenCV, TypeScript, Node.js, HTML, Full-Stack Development, JavaScript, Scrum, Front-End Development, Vue.js, React Native  
@@ -155,7 +155,7 @@ Those are just some of my projects. There are too many to list.
 - Mentoring
 
 ### Operating Systems
-- Linux (daily use)
+- Linux: Debian, CentOS, Ubuntu Server, Arch (daily use)
 - FreeBSD, FreeNAS
 - Windows (daily use)
 - Apple MacOS
@@ -165,35 +165,48 @@ Those are just some of my projects. There are too many to list.
 ### Programming Languages and Technologies
 
 #### Web Development
-- PHP
-- Node.js
-- Angular
-- React
-- Vue
-- Vuex
-- jQuery
 - JavaScript
-- CSS3, GRID, FLEX
+- React
+- AngularJS
+- Vue
+- TypeScript
+- jQuery
+- User Interface Design
+- Web Design
+- Graphic Design
+- WordPress
+- SEO
+- UX
 
 #### Mobile Development
 - React Native
 
 #### Backend Development
+- PHP
+- Node.js
 - Python
-- ShellScript
 - Rust
-- C#
-- .NET
+- C# / .NET
+- API Development
+- Ruby
 
 #### Database
 - MySQL
+- MongoDB
 - SQLite
 
 #### Others
+- Docker
+- Amazon Web Services (AWS)
+- Linux System Administration
 - Arduino
-- Ruby
 - C/C++
 - Pascal
+- Shell Scripting
+- Information Security
+
+### WEB 3.0
+- Solidity
 
 ### MVCs
 - Laravel
@@ -202,7 +215,7 @@ Those are just some of my projects. There are too many to list.
 - CodeIgniter
 
 ## Additional Experiences
-**Hobbies:** ARM development (Raspberry Pi, BeagleBone), ESP32 (Arduino), Atmel (Arduino), Gaming (Nintendo Switch and PC)  
+**Hobbies:** ARM development (Raspberry Pi, BeagleBone), ESP32 (Arduino), Atmel (Arduino), Gaming (Nintendo Switch and PC), Biohacking  
 **Teaching:** Official mentor for two new recruits, providing web-dev and Photoshop instructions.
 
 ## Software Tools Knowledge
@@ -210,16 +223,16 @@ Those are just some of my projects. There are too many to list.
 ### Design and Prototyping
 - Adobe Photoshop
 - Adobe Illustrator
-- Figma
 - Adobe XD
+- Figma
 
 ### Development Environments
-- PHPStorm
+- JetBrain PHPStorm
+- JetBrain IntelliJ
 - VIM
-- Visual Studio
-- IntelliJ
-- Visual Code
 - Neovim
+- Visual Studio
+- Visual Code
 
 ### Database and Administration
 - PHPmyAdmin

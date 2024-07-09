@@ -1,9 +1,10 @@
 <img width="100%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/cv_banner.jpg"/>
 
-# Mihael Rajšter
+# Mihael Rajšter - Fullstack engineer 
 
 - [Personal Details](#personal-details)
 - [Work Experience](#work-experience)
+  - [Notable Partners](#notable-partners)
   - [Professional Projects](#professional-projects)
   - [Personal Projects](#personal-projects)
 - [Education](#education)
@@ -42,6 +43,9 @@
 
 ## Work Experience
 
+### Notable Partners
+KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Sava...
+
 ### Professional Projects
 
 #### GoCrypto
@@ -51,7 +55,7 @@
 - **EllyPay**
 - **EllyPOS**
 
-#### INEOR
+#### INEOR & Greentube
 **Skills:** Jira, CSS, SASS, Technical Support, Git, Webpack, API Development, UX, Web Development, Photoshop, Linux, TypeScript, Node.js, Gitlab, AngularJS, HTML, PHP, Full-Stack Development, JavaScript, Scrum, User Interface Design, Front-End Development, Adobe Creative Suite, Web Design, Docker Products  
 **Notable Projects:**
 - **Pharaon / CareRisk logo design:** Designed a logo for the Pharaon / CareRisk project.
@@ -80,6 +84,21 @@
 **Skills:** Biggest car services groups in Slovenia and Adria. Technologies include PHP, Python scraper with integrated proxies, React Native app for vehicle information via OBD port. Proposed but not implemented: WIFI/Bluetooth triangulation based indoor tracking.  
 **Pages can be seen on:** [www.servicemaxx.si](https://www.servicemaxx.si/)
 
+#### The Honey Bee Club
+**Description:** International NFT Ethereum project that was designed to help bees. Made in Vue and CSS3 animations.
+
+#### Bodifit
+**Description:** Wordpress webshop made for high traffic. Webshop includes some info pages and a blog.
+
+#### Sportna zveza Slovenj Gradec
+**Description:** Wordpress webpage made for sports association. It includes blog, gallery, files manager, file downloader and news.
+
+#### Pečanac in Rakun
+**Description:** Wordpress page with a Vue frontend. Including forms, pages and blogs.
+
+#### Penel Premium decor
+**Description:** Wordpress page with blog pages and a gallery.
+
 #### Prostot6
 **Skills:** Simple PHP with jQuery. Internal portal for VCAG, KMAG, and ServiceMAXX employees. Based on CakePHP, pure PHP, Vue, and jQuery.
 
@@ -100,28 +119,6 @@
 
 #### Leoni
 **Skills:** IT works, Linux administrator, main designer and web-dev.
-
-#### The Honey Bee Club
-**Description:** International NFT Ethereum project that was designed to help bees. Made in Vue and CSS3 animations.
-
-#### Bodifit
-**Description:** Wordpress webshop made for high traffic. Webshop includes some info pages and a blog.
-
-#### Sportna zveza Slovenj Gradec
-**Description:** Wordpress webpage made for sports association. It includes blog, gallery, files manager, file downloader and news.
-
-#### Pečanac in Rakun
-**Description:** Wordpress page with a Vue frontend. Including forms, pages and blogs.
-
-#### Penel Premium decor
-**Description:** Wordpress page with blog pages and a gallery.
-
-#### Ineor & Greentube
-**Description:** 
-- Medical front end for IoT infrastructure made with Angular and Python.
-- Swissloss - Code redesign and user flow changes in an online casino game made in Next and Angular.
-- Swissloss internal testing terminal - Game testing terminal made with Angular.
-- Internal project for cataloguing employees and delegating them to their projects based on their skillsets.
 
 #### Other Projects:
 IIBA.si, ModriBit, Dodatnizasluzek, Ekokoticek, Premiki, OC-lab, TMX-Racing, EWM, Samec.si...

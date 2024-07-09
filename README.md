@@ -34,7 +34,7 @@
 **Date of Birth:** 28.9.1987  
 **Email:** [rajster.miha@gmail.com](mailto:rajster.miha@gmail.com)  
 **Telephone:** +386 31 655 642  
-**Business Name:** MIHAEL RAJŠTER s.p., LUMNIUM
+**Business Name:** MIHAEL RAJŠTER s.p., LUMNIUM  
 **Tax Number:** 87018144  
 **Registration Number:** 6963102000  
 **Business Domain:** [www.lumnium.si](https://www.lumnium.si)  

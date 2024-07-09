@@ -1,120 +1,242 @@
 <img width="100%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/cv_banner.jpg"/>
 
-[Please download a PDF, this is just undesigned text](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)<br/>
-[Don't forget to take a look at my LinkedIn for more](https://www.linkedin.com/in/miharajster/)
+# Mihael Rajšter
 
-- [Intro](https://github.com/miharajster/cv)
-- [References](https://github.com/miharajster/cv#references)
-  - [Personal projects](https://github.com/miharajster/cv#personal-projects)
-  - [Profesional projects](https://github.com/miharajster/cv#professional-projects)
+- [Personal Details](#personal-details)
+- [Work Experience](#work-experience)
+  - [Professional Projects](#professional-projects)
+  - [Personal Projects](#personal-projects)
+- [Education](#education)
+- [Skills](#skills)
+  - [Additional Skillsets](#additional-skillsets)
+  - [Operating Systems](#operating-systems)
+  - [Programming Languages and Technologies](#programming-languages-and-technologies)
+    - [Web Development](#web-development)
+    - [Mobile Development](#mobile-development)
+    - [Backend Development](#backend-development)
+    - [Database](#database)
+    - [Others](#others)
+  - [MVCs](#mvcs)
+- [Additional Experiences](#additional-experiences)
+- [Software Tools Knowledge](#software-tools-knowledge)
+  - [Design and Prototyping](#design-and-prototyping)
+  - [Development Environments](#development-environments)
+  - [Database and Administration](#database-and-administration)
+  - [Mobile Development](#mobile-development-1)
+  - [Video and Animation](#video-and-animation)
+  - [Office Suites](#office-suites)
 
-# Mihael Rajšter - FULL STACK DEVELOPER
-Ulica Matija Tomca 2<br/>
-1230 Domžale<br/>
-Slovenia
+## Personal Details
+**Name:** Mihael Rajšter  
+**Address:** Ulica Matije Tomca 2, 1230 Domžale, Slovenia  
+**Citizenship:** Slovenian  
+**Date of Birth:** 28.9.1987  
+**Email:** [rajster.miha@gmail.com](mailto:rajster.miha@gmail.com)  
+**Telephone:** +386 31 655 642  
+**Davčna številka (Tax Number):** 87018144  
+**Matična (Registration Number):** 6963102000  
+**Business Name:** MIHAEL RAJŠTER s.p., LUMNIUM  
+**Business Domain:** [www.lumnium.si](https://www.lumnium.si)  
+**LinkedIn:** [www.linkedin.com/in/miharajster](https://www.linkedin.com/in/miharajster/)  
+**Medium:** [medium.com/@rajster.miha](https://medium.com/@rajster.miha)  
 
-Citizenship: Slovenian
+## Work Experience
 
-Date of birth: 28.9. 1987
+### Professional Projects
 
-Email: rajstermiha@gmail.com
+#### GoCrypto
+**Skills:** Jira, CSS, SASS, Git, Webpack, API Development, Linux, TypeScript, Gitlab, AngularJS, HTML, React.js, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products  
+**Notable Projects:**
+- **Elly**
+- **EllyPay**
+- **EllyPOS**
 
-Telephone: +386 31 655 642
+#### INEOR
+**Skills:** Jira, CSS, SASS, Technical Support, Git, Webpack, API Development, UX, Web Development, Photoshop, Linux, TypeScript, Node.js, Gitlab, AngularJS, HTML, PHP, Full-Stack Development, JavaScript, Scrum, User Interface Design, Front-End Development, Adobe Creative Suite, Web Design, Docker Products  
+**Notable Projects:**
+- **Pharaon / CareRisk logo design:** Designed a logo for the Pharaon / CareRisk project.
+- **Gooaal - Swissloss - Leap:** Modified gameplay and payment systems.
+- **Pharaon:** Led front-end development, writing in Angular, using technologies like WebSockets and OAuth, in collaboration with the EU and Ericsson.
 
-## REFERENCES
-### Personal projects
+#### Greco Software
+**Skills:** SASS, Android Development, Git, Webpack, PHP Frameworks, Web Development, OpenCV, TypeScript, Node.js, HTML, Full-Stack Development, JavaScript, Scrum, Front-End Development, Vue.js, React Native  
+**Notable Projects:**
+- **Sava Mobile Upload APP and my OpenCV System Integration - App:** Inspected rejected images with Angular integration and NodeJS API.
+- **Sava Mobile Upload APP and my OpenCV System Integration - Administration:** Displayed rejected images results using Angular integration.
+- **Sava Mobile Upload APP and my OpenCV System Integration - App:** Logic added to React Native app with NodeJS API.
+
+#### Optiweb
+**Skills:** Jira, CSS, SASS, Git, Webpack, API Development, Symfony Framework, PHP Frameworks, TypeScript, Node.js, Gitlab, HTML, PHP, React.js, Full-Stack Development, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products
+
+#### VOLVO Adria Group (VCAG)
+**Skills:** Pages built on PHP customized MVC CakePHP for 7 markets (SI, HR, BA, ME, MK, RS, AL). Other technologies include but are not limited to PHP, jQuery, CSS3 animations, Vue. Design work, including web-based (banners, backdrops, webpages) and print media.  
+**Pages can be seen on:** [www.volvocenter.si](http://www.volvocenter.si)
+
+#### KIA Adria Group (KMAG)
+**Skills:** Built on customized MVC CakePHP for 6 markets (SI, HR, BA, ME, KO, RS). Technologies used are the same as for VCAG; also worked as a designer.  
+**Pages can be seen on:** [www.kia.si](http://www.kia.si)
+
+#### ServiceMAXX
+**Skills:** Biggest car services groups in Slovenia and Adria. Technologies include PHP, Python scraper with integrated proxies, React Native app for vehicle information via OBD port. Proposed but not implemented: WIFI/Bluetooth triangulation based indoor tracking.  
+**Pages can be seen on:** [www.servicemaxx.si](https://www.servicemaxx.si/)
+
+#### Prostot6
+**Skills:** Simple PHP with jQuery. Internal portal for VCAG, KMAG, and ServiceMAXX employees. Based on CakePHP, pure PHP, Vue, and jQuery.
+
+#### Ekosol
+**Skills:** Magento GDPR Plugin and web optimization. Online shop made on Wordpress.
+
+#### COMMIT
+**Skills:** Late night information TV program displaying weather updates. Technologies: HTML and jQuery. Also designed it.
+
+#### TUR-TV
+**Skills:** Multilanguage Wordpress page with a forum. Main designer and web-dev.
+
+#### Transstar-Europa
+**Skills:** IT works, Linux administrator, main designer and web-dev.
+
+#### DS2
+**Skills:** Multilanguage Wordpress page with a forum. Main designer and web-dev.
+
+#### Leoni
+**Skills:** IT works, Linux administrator, main designer and web-dev.
+
+#### The Honey Bee Club
+**Description:** International NFT Ethereum project that was designed to help bees. Made in Vue and CSS3 animations.
+
+#### Bodifit
+**Description:** Wordpress webshop made for high traffic. Webshop includes some info pages and a blog.
+
+#### Sportna zveza Slovenj Gradec
+**Description:** Wordpress webpage made for sports association. It includes blog, gallery, files manager, file downloader and news.
+
+#### Pečanac in Rakun
+**Description:** Wordpress page with a Vue frontend. Including forms, pages and blogs.
+
+#### Penel Premium decor
+**Description:** Wordpress page with blog pages and a gallery.
+
+#### Ineor & Greentube
+**Description:** 
+- Medical front end for IoT infrastructure made with Angular and Python.
+- Swissloss - Code redesign and user flow changes in an online casino game made in Next and Angular.
+- Swissloss internal testing terminal - Game testing terminal made with Angular.
+- Internal project for cataloguing employees and delegating them to their projects based on their skillsets.
+
+#### Other Projects:
+IIBA.si, ModriBit, Dodatnizasluzek, Ekokoticek, Premiki, OC-lab, TMX-Racing, EWM, Samec.si...
+
+### Personal Projects
+
 #### Minecraft Slovenija
-Biggest Minecraft community at the time, with thousands of users. Hold together with Debian Linux (as a MC server), Wordpress (as a blog platform), forum, a LOT of custom PHP APIs and one Android app built for users. Everything was made and administered by me.
+Biggest Minecraft community at the time, with thousands of users. Held together with Debian Linux (as an MC server), Wordpress (as a blog platform), forum, a LOT of custom PHP APIs, and one Android app built for users. Everything was made and administered by me.
 
 #### BOTs House
-Project build with Phyton, Selenium as a back-end and PHP and Vue as a front-end. 
+Project built with Python, Selenium as a back-end and PHP and Vue as a front-end. Bots can be created for testing, gathering, or malicious purposes. Every bot is custom built for a single purpose with a PHP and Vue front-end.
 
-Bots can be created for testing, gathering or malicious perpecies.
-
-Every bot is custom built for a single purpose with a PHP and Vue front-end.
-
-#### 60's Spider-man app
+#### 60’s Spider-man app
 Simple Android app with PHP API that displayed Spider-man memes to hundreds of users.
 
 #### "Domžalčan" app
-Android app build for bus transportation time tables. Used by many local students for their daily commute.
+Android app built for bus transportation timetables. Used by many local students for their daily commute.
 
-Those are jsut some of my projects. There are too much to list.
+Those are just some of my projects. There are too many to list.
 
-### Professional projects
-#### Ineor & Greentube
-XXXXXXXX medical front end for IOT infrastructure. Made with Angular and Python.
+## Education
+**Official:** High school for electronics  
+**Self-Learning:** Self-learner in web development since the 2000s, leveraging resources such as YouTube, Udemy, Linda, Cybrary, Medium, EDX, LinuxAcademy, and Codecademy for continuous learning and skill enhancement.
 
-Swissloss XXXXXXX - code redesign and user flow changes in an online casino game made in Next and Angular.
+## Skills
 
-Swissloss XXXXXXX internal testing terminal - game testing terminal made with Angular.
+### Additional Skillsets
+- SEO
+- UX
+- Board level repairs of PC and mobile gear
+- Counseling
+- Blind typing
+- IT support
+- Mentoring
 
-XXXXX - internal project for cataloguing employees and delegating them to their projects based on their skillsets.
+### Operating Systems
+- Linux (daily use)
+- FreeBSD, FreeNAS
+- Windows (daily use)
+- Apple MacOS
+- Android (daily use)
+- iOS (daily use - testing)
 
-X = reducted
+### Programming Languages and Technologies
 
-#### The Honey Bee Club
-International NFT Ethereum project that was designed to help bees. Made in Vue and CSS3 animations.
+#### Web Development
+- PHP
+- Node.js
+- Angular
+- React
+- Vue
+- Vuex
+- jQuery
+- JavaScript
+- CSS3, GRID, FLEX
 
-#### Bodifit
-Wordpress webshop made for high traffic.
-Webshop includes some info pages and a blog.
+#### Mobile Development
+- React Native
 
-#### Sportna zveza Slovenj Gradec
-Wordpress webpage made for sports association. It includes blog, gallery, files manager, file downloader and news.
+#### Backend Development
+- Python
+- ShellScript
+- Rust
+- C#
+- .NET
 
-#### Pečanac in Rakun
-Wordpress page with a Vue frontend. Including forms, pages and blogs.
+#### Database
+- MySQL
+- SQLite
 
-#### Penel Premium decor
-Wordpress page with blog pages and a gallery.
+#### Others
+- Arduino
+- Ruby
+- C/C++
+- Pascal
 
-#### VOLVO Adria Group (VCAG)
-Pages built on PHP customized MVC CakePHP for 7 markets (Sl, HR, BA, ME, MK, RS, AL).
+### MVCs
+- Laravel
+- CakePHP
+- Symfony
+- CodeIgniter
 
-Other technologies include but are not limited to: PHP, jQuery, CSS3 animations, Vue.
+## Additional Experiences
+**Hobbies:** ARM development (Raspberry Pi, BeagleBone), ESP32 (Arduino), Atmel (Arduino), Gaming (Nintendo Switch and PC)  
+**Teaching:** Official mentor for two new recruits, providing web-dev and Photoshop instructions.
 
-I was also asked to do design work, that was mainly web based (banners, backdrops and webpages), but also some ment for printing.
+## Software Tools Knowledge
 
-Pages can be seen on: [www.volvocenter.si](www.volvocenter.si)
+### Design and Prototyping
+- Adobe Photoshop
+- Adobe Illustrator
+- Figma
+- Adobe XD
 
-#### KIA Adria Group (KMAG)
-Also built on customized MVC CakePHP but only for 6 markets (Sl, HR, BA, ME, KO, RS).
+### Development Environments
+- PHPStorm
+- VIM
+- Visual Studio
+- IntelliJ
+- Visual Code
+- Neovim
 
-Technologies used are the same as for VCAG and I was also a designer.
+### Database and Administration
+- PHPmyAdmin
+- DirectAdmin
+- CPanel
 
-Pages can be seen on: [www.kia.si](www.kia.si)
+### Mobile Development
+- Android Studio
 
-#### ServiceMAXX
-One of the biggest car services groups in Slovenia and Adria (but under a different name).
+### Video and Animation
+- Adobe AfterEffects
+- Adobe Premiere Pro
+- DaVinci Resolve
 
-Technologies are the same as VCAG, but I was also asked to develop a Python scraper with integrated proxies and a React Native app that reads viachel information from the ODB port and reports it to our servers. Talks of person WIFI/Bluetooth triangulation based indoor tracking were made, but project never came to tuition or over technical design stage.
-
-#### Prostor6
-Simple PHP with jQuery.
-
-#### Mašina (internal KMAG/VCAG portal)
-Internal portal for employees of VCAG, KMAG and ServiceMAXX.
-
-#### Ekosol
-Magento GDPR Plugin and web optimization.
-
-#### COMMIT
-Online shop made on Wordpress.
-
-#### TUR-TV
-Late night information TV program that displayed weather, cameras and weather updates. HTML and jQuery. I also designed it.
-
-#### Transstar-Europa
-Multilanguage Wordpress page with a forum.
-
-#### DS2
-Main designer and web-dev.
-
-#### Leoni
-IT works, Linux administrator, main designer and web-dev.
-
-#### The rest
-IIBA.si, ModriBit, Dodatnizasluzek, Ekokoticek, Premiki, OC-lab, TMX-Racing, EWM, Samec.si...
-
-[More...](https://github.com/miharajster/cv/blob/main/CV%20-%20Mihael%20Rajster%20-%20Full%20stack.pdf)
+### Office Suites
+- Microsoft Office
+- LibreOffice

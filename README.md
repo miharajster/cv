@@ -55,6 +55,9 @@ KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Sava...
 - **EllyPay**
 - **EllyPOS**
 
+#### Optiweb
+**Skills:** Jira, CSS, SASS, Git, Webpack, API Development, Symfony Framework, PHP Frameworks, TypeScript, Node.js, Gitlab, HTML, PHP, React.js, Full-Stack Development, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products
+
 #### INEOR & Greentube
 **Skills:** Jira, CSS, SASS, Technical Support, Git, Webpack, API Development, UX, Web Development, Photoshop, Linux, TypeScript, Node.js, Gitlab, AngularJS, HTML, PHP, Full-Stack Development, JavaScript, Scrum, User Interface Design, Front-End Development, Adobe Creative Suite, Web Design, Docker Products  
 **Notable Projects:**
@@ -68,9 +71,6 @@ KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Sava...
 - **Sava Mobile Upload APP and my OpenCV System Integration - App:** Inspected rejected images with Angular integration and NodeJS API.
 - **Sava Mobile Upload APP and my OpenCV System Integration - Administration:** Displayed rejected images results using Angular integration.
 - **Sava Mobile Upload APP and my OpenCV System Integration - App:** Logic added to React Native app with NodeJS API.
-
-#### Optiweb
-**Skills:** Jira, CSS, SASS, Git, Webpack, API Development, Symfony Framework, PHP Frameworks, TypeScript, Node.js, Gitlab, HTML, PHP, React.js, Full-Stack Development, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products
 
 #### VOLVO Adria Group (VCAG)
 **Skills:** Pages built on PHP customized MVC CakePHP for 7 markets (SI, HR, BA, ME, MK, RS, AL). Other technologies include but are not limited to PHP, jQuery, CSS3 animations, Vue. Design work, including web-based (banners, backdrops, webpages) and print media.  

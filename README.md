@@ -1,6 +1,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/miharajster/cv/main/lib/cv_banner.jpg"/>
 
-# Mihael Rajšter - Fullstack engineer 
+# Mihael Rajšter - Full Stack Engineer 
 
 - [Personal Details](#personal-details)
 - [Work Experience](#work-experience)

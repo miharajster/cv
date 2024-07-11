@@ -195,15 +195,15 @@ Those are just some of my projects. There are too many to list.
 - MongoDB
 - SQLite
 
-#### Others
-- Docker
-- Amazon Web Services (AWS)
-- Linux System Administration
-- Arduino
-- C/C++
-- Pascal
-- Shell Scripting
-- Information Security
+### AI
+- Local AI: ollama + llama3 + Python
+- ChatGPT API
+- Codeium
+- Github Copilot
+- Midjourney
+- Udio
+- Bing Designer
+- Google Gemini
 
 ### WEB 3.0
 - Solidity
@@ -213,6 +213,16 @@ Those are just some of my projects. There are too many to list.
 - CakePHP
 - Symfony
 - CodeIgniter
+
+#### Others
+- Docker
+- Amazon Web Services (AWS)
+- Linux System Administration
+- Arduino
+- C/C++
+- Pascal
+- Shell Scripting
+- Information Security
 
 ## Additional Experiences
 **Hobbies:** ARM development (Raspberry Pi, BeagleBone), ESP32 (Arduino), Atmel (Arduino), Gaming (Nintendo Switch and PC), Biohacking  

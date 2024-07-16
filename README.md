@@ -12,12 +12,17 @@
   - [Additional Skillsets](#additional-skillsets)
   - [Operating Systems](#operating-systems)
   - [Programming Languages and Technologies](#programming-languages-and-technologies)
-    - [Web Development](#web-development)
-    - [Mobile Development](#mobile-development)
+    - [Frontend Development](#frontend-development)
     - [Backend Development](#backend-development)
     - [Database](#database)
+    - [Mobile Development](#mobile-development)
+    - [AI](#ai)
+    - [Web 3.0](#web-30)
+    - [MVCs](#mvcs)
+    - [Web Scraping](#web-scraping)
+    - [Serving Technologies](#serving-technologies)
+    - [Linux](#linux)
     - [Others](#others)
-  - [MVCs](#mvcs)
 - [Additional Experiences](#additional-experiences)
 - [Software Tools Knowledge](#software-tools-knowledge)
   - [Design and Prototyping](#design-and-prototyping)
@@ -164,7 +169,7 @@ Those are just some of my projects. There are too many to list.
 
 ### Programming Languages and Technologies
 
-#### Web Development
+#### Frontend Development
 - JavaScript
 - React
 - AngularJS
@@ -177,9 +182,6 @@ Those are just some of my projects. There are too many to list.
 - WordPress
 - SEO
 - UX
-
-#### Mobile Development
-- React Native
 
 #### Backend Development
 - PHP
@@ -194,6 +196,9 @@ Those are just some of my projects. There are too many to list.
 - MySQL
 - MongoDB
 - SQLite
+
+#### Mobile Development
+- React Native
 
 ### AI
 - Local AI: ollama + llama3 + Python
@@ -214,14 +219,25 @@ Those are just some of my projects. There are too many to list.
 - Symfony
 - CodeIgniter
 
-#### Others
+#### Web scraping
+- Selenium
+
+#### Serving technologies
 - Docker
 - Amazon Web Services (AWS)
+- Google Cloud
+- Firebase
+- Vercel
+
+#### Linux
 - Linux System Administration
+- Bash/Shell Scripting
+
+#### Others
+- Mentoring
 - Arduino
 - C/C++
 - Pascal
-- Shell Scripting
 - Information Security
 
 ## Additional Experiences

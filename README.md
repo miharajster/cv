@@ -53,6 +53,18 @@ KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Sava...
 
 ### Professional Projects
 
+#### VMA
+**Skills:** SASS, Git, TypeScript, React.js, Node.js  
+**Notable Projects:**
+- NDA REDACTED
+
+#### Datastat
+**Skills:** Leadership, Jira, SASS, Git, .NET, API Development, TypeScript, Scrum, Front-End Development  
+**Notable Projects:**
+- **Judomanager**
+- **International Judo Federation**
+- **Judobase**
+
 #### GoCrypto
 **Skills:** Jira, CSS, SASS, Git, Webpack, API Development, Linux, TypeScript, Gitlab, AngularJS, HTML, React.js, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products  
 **Notable Projects:**
@@ -105,25 +117,25 @@ KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Sava...
 **Description:** Wordpress page with blog pages and a gallery.
 
 #### Prostot6
-**Skills:** Simple PHP with jQuery. Internal portal for VCAG, KMAG, and ServiceMAXX employees. Based on CakePHP, pure PHP, Vue, and jQuery.
+**Description:** Simple PHP with jQuery. Internal portal for VCAG, KMAG, and ServiceMAXX employees. Based on CakePHP, pure PHP, Vue, and jQuery.
 
 #### Ekosol
-**Skills:** Magento GDPR Plugin and web optimization. Online shop made on Wordpress.
+**Description:** Magento GDPR Plugin and web optimization. Online shop made on Wordpress.
 
 #### COMMIT
-**Skills:** Late night information TV program displaying weather updates. Technologies: HTML and jQuery. Also designed it.
+**Description:** Late night information TV program displaying weather updates. Technologies: HTML and jQuery. Also designed it.
 
 #### TUR-TV
-**Skills:** Multilanguage Wordpress page with a forum. Main designer and web-dev.
+**Description:** Multilanguage Wordpress page with a forum. Main designer and web-dev.
 
 #### Transstar-Europa
-**Skills:** IT works, Linux administrator, main designer and web-dev.
+**Description:** IT works, Linux administrator, main designer and web-dev.
 
 #### DS2
-**Skills:** Multilanguage Wordpress page with a forum. Main designer and web-dev.
+**Description:** Multilanguage Wordpress page with a forum. Main designer and web-dev.
 
 #### Leoni
-**Skills:** IT works, Linux administrator, main designer and web-dev.
+**Description:** IT works, Linux administrator, main designer and web-dev.
 
 #### Other Projects:
 IIBA.si, ModriBit, Dodatnizasluzek, Ekokoticek, Premiki, OC-lab, TMX-Racing, EWM, Samec.si...
@@ -231,6 +243,10 @@ Those are just some of my projects. There are too many to list.
 
 #### Linux
 - Linux System Administration
+  - CentOS
+  - Debian
+  - Ubuntu Server
+  - Alpine Linux
 - Bash/Shell Scripting
 
 #### Others

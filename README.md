@@ -290,8 +290,8 @@ Those are just some of my projects. There are too many to list.
 - LibreOffice
 
 ## Additional Experiences and Hobbies
-**Electronics:** ARM development, Raspberry Pi, BeagleBone, ESP32 (Arduino), Atmel (Arduino)
-**Biohacking:** I've written a great article about it on my [Medium](https://medium.com/@rajster.miha/how-i-optimize-for-cognition-as-a-developer-nootropics-focussupreme-f68b8a9fc6f7).
+**Electronics:** ARM development, Raspberry Pi, BeagleBone, ESP32 (Arduino), Atmel (Arduino)  
+**Biohacking:** I've written a great article about it on my [Medium](https://medium.com/@rajster.miha/how-i-optimize-for-cognition-as-a-developer-nootropics-focussupreme-f68b8a9fc6f7).  
 **Writting:** By July 2024 I have over 70k readers and 650 folowers just on Medium. I also write fast articles on local Developers Facebook Groups.
-**Teaching:** Mentor for many new minds and businesses. I mostly mentor on business, learning and communication. But sometimes I do technical skills too. I just think, that those must be learned alone.
+**Teaching:** Mentor for many new minds and businesses. I mostly mentor on business, learning and communication. But sometimes I do technical skills too. I just think, that those must be learned alone.  
 **Music:** I generate music, you can find me on [Spotify](https://open.spotify.com/artist/1Q7f5du9N7JkzhPus7Fsnv?si=CC1ej2VvQ_SpzviFYOJucw) and many other platforms.

@@ -23,7 +23,6 @@
     - [Serving Technologies](#serving-technologies)
     - [Linux](#linux)
     - [Others](#others)
-- [Additional Experiences](#additional-experiences)
 - [Software Tools Knowledge](#software-tools-knowledge)
   - [Design and Prototyping](#design-and-prototyping)
   - [Development Environments](#development-environments)
@@ -31,6 +30,7 @@
   - [Mobile Development](#mobile-development-1)
   - [Video and Animation](#video-and-animation)
   - [Office Suites](#office-suites)
+- [Additional Experiences and Hobies](#additional-experiences-and-hobbies)
 
 ## Personal Details
 **Name:** Mihael Rajšter  

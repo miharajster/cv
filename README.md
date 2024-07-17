@@ -68,24 +68,24 @@ KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Ericsson, Sava...
 - **Judobase**
 
 #### GoCrypto
-**Skills:** Jira, CSS, SASS, Git, Webpack, API Development, Linux, TypeScript, Gitlab, AngularJS, HTML, React.js, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products  
+**Skills:** Jira, CSS, SASS, Git, Webpack, API Development, Linux, TypeScript, Gitlab, AngularJS, React.js, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products  
 **Notable Projects:**
 - **Elly**
 - **EllyPay**
 - **EllyPOS**
 
 #### Optiweb
-**Skills:** Jira, CSS, SASS, Git, Webpack, API Development, Symfony Framework, PHP Frameworks, TypeScript, Node.js, Gitlab, HTML, PHP, React.js, Full-Stack Development, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products
+**Skills:** Jira, CSS, SASS, Git, Webpack, API Development, Symfony Framework, PHP Frameworks, TypeScript, Node.js, Gitlab, PHP, React.js, Full-Stack Development, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products
 
 #### INEOR & Greentube
-**Skills:** Jira, CSS, SASS, Technical Support, Git, Webpack, API Development, UX, Web Development, Photoshop, Linux, TypeScript, Node.js, Gitlab, AngularJS, HTML, PHP, Full-Stack Development, JavaScript, Scrum, User Interface Design, Front-End Development, Adobe Creative Suite, Web Design, Docker Products  
+**Skills:** Jira, CSS, SASS, Technical Support, Git, Webpack, API Development, UX, Web Development, Photoshop, Linux, TypeScript, Node.js, Gitlab, AngularJS, PHP, Full-Stack Development, JavaScript, Scrum, User Interface Design, Front-End Development, Adobe Creative Suite, Web Design, Docker Products  
 **Notable Projects:**
 - **Pharaon / CareRisk logo design:** Designed a logo for the Pharaon / CareRisk project.
 - **Gooaal - Swissloss - Leap:** Modified gameplay and payment systems.
 - **Pharaon:** Lead front-end development, writing in Angular, using technologies like WebSockets and OAuth, in collaboration with the EU and Ericsson.
 
 #### Greco Software
-**Skills:** SASS, Android Development, Git, Webpack, PHP Frameworks, Web Development, OpenCV, TypeScript, Node.js, HTML, Full-Stack Development, JavaScript, Scrum, Front-End Development, Vue.js, React Native  
+**Skills:** SASS, Android Development, Git, Webpack, PHP Frameworks, Web Development, OpenCV, TypeScript, Node.js, Full-Stack Development, JavaScript, Scrum, Front-End Development, Vue.js, React Native  
 **Notable Projects:**
 - **Sava Mobile Upload APP and my OpenCV System Integration - App:** Inspected rejected images with Angular integration and NodeJS API.
 - **Sava Mobile Upload APP and my OpenCV System Integration - Administration:** Displayed rejected images results using Angular integration.

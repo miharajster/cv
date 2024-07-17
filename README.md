@@ -33,6 +33,9 @@
 - [Additional Experiences and Hobies](#additional-experiences-and-hobbies)
 
 ## Personal Details
+
+Web developer with more than 20 years experience creating visually interesting and user-friendly websites. Expert-level proficiency with major development tools such as Photoshop, IntelliJ and VIM.
+
 **Name:** Mihael Rajšter  
 **Address:** Ulica Matije Tomca 2, 1230 Domžale, Slovenia  
 **Citizenship:** Slovenian  

@@ -49,7 +49,9 @@
 ## Work Experience
 
 ### Notable Partners
-KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Sava...
+<img src="https://raw.githubusercontent.com/miharajster/cv/main/lib/logos.png"/>
+
+KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Ericsson, Sava...
 
 ### Professional Projects
 

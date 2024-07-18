@@ -37,17 +37,13 @@
 
 Hello there! I’m Mihael Rajšter, a passionate and experienced Full Stack Engineer hailing from the beautiful country of Slovenia. With a strong +20 years background in both frontend, backend development and marketing, I have had the privilege of working with some of the most notable names in the industry, including KIA, VOLVO, and Ericsson. My journey in tech started in the early 2000s, and since then, I’ve been on an exhilarating ride of continuous learning and innovation.
 
-<img src="https://raw.githubusercontent.com/miharajster/cv/main/lib/060716_130146.jpg"/>  
-<small>My 2006 setup</small>
-  
+![My 2006 setup](https://raw.githubusercontent.com/miharajster/cv/main/lib/060716_130146.jpg)  
+*My 2006 setup*
 
-<img src="https://raw.githubusercontent.com/miharajster/cv/main/lib/060630_234147.jpg"/>  
-<small>A glimps of my water cooled Athlon 64</small>
-  
+![A glimpse of my water-cooled Athlon 64](https://raw.githubusercontent.com/miharajster/cv/main/lib/060630_234147.jpg)  
+*A glimpse of my water-cooled Athlon 64*
 
 I thrive on challenges and love bringing ideas to life with cutting-edge technologies. Whether it's developing high-performance web applications, crafting seamless user experiences, or diving deep into the latest AI advancements, I am always eager to push the boundaries and deliver excellence. Beyond my technical prowess, I am an avid mentor, dedicated to guiding new minds and fostering a collaborative environment.
-
-When I’m not coding or mentoring, you’ll find me dabbling in biohacking, generating music, or sharing insights with my 70k+ readers on Medium. Let’s connect and create something amazing together!
 
 ## Personal Details
 

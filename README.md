@@ -251,6 +251,7 @@ Those are just some of my projects. There are too many to list.
 - Selenium
 
 #### Serving technologies
+- Proxmox
 - Docker
 - Amazon Web Services (AWS)
 - Google Cloud

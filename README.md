@@ -69,6 +69,15 @@ KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Ericsson, Sava...
 
 ### Professional Projects
 
+#### Kriptomat
+**Skills:** VueJS, SASS, AI models traning and local solutions
+
+#### Crypto2gold
+**Skills:** PHP, VueJS
+
+#### SP izracun
+**Skills:** PHP, AngularJS, Payment gateways, SASS
+
 #### VMA
 **Skills:** SASS, Git, TypeScript, React.js, Node.js  
 **Notable Projects:**

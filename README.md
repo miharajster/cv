@@ -65,7 +65,7 @@ I thrive on challenges and love bringing ideas to life with cutting-edge technol
 ### Notable Partners
 <img src="https://raw.githubusercontent.com/miharajster/cv/main/lib/logos.png"/>
 
-KIA, VOLVO, Ericsson, goCrypto, Optiweb, Greentube, EU, Ericsson, Sava...
+KIA, VOLVO, Ericsson, goCrypto, Kriptomat, Optiweb, Greentube, European Union (EU) Government, Sava...
 
 ### Professional Projects
 

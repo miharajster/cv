@@ -70,7 +70,7 @@ KIA, VOLVO, Ericsson, goCrypto, Kriptomat, Optiweb, Greentube, European Union (E
 ### Professional Projects
 
 #### Kriptomat
-**Skills:** VueJS (Vue 3, Composition API), Nuxt, Pinia, Amplitude, PostHog.js, SASS, Figma, AI models traning and local solutions
+**Skills:** VueJS (Vue 3, Composition API), Nuxt, Pinia, Amplitude, PostHog.js, SASS (BEM, ITCSS, OOCSS), Figma, AI models traning and local solutions
 
 #### Crypto2gold
 **Skills:** PHP, VueJS, Vuex
@@ -84,14 +84,15 @@ KIA, VOLVO, Ericsson, goCrypto, Kriptomat, Optiweb, Greentube, European Union (E
 - NDA REDACTED
 
 #### Datastat
-**Skills:** Leadership, Jira, SASS, Git, .NET, API Development, TypeScript, Scrum, Front-End Development  
+**Skills:** Leadership, Jira, SASS (BEM), Git, .NET, API Development, TypeScript, Scrum, Front-End Development  
 **Notable Projects:**
+- **Written code standards**
 - **Judomanager**
 - **International Judo Federation**
 - **Judobase**
 
 #### GoCrypto
-**Skills:** Jira, SASS, Git, Webpack, API Development, Linux, TypeScript, Gitlab, AngularJS, React.js, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products  
+**Skills:** Jira, SASS (BEM), Git, Webpack, API Development, Linux, TypeScript, Gitlab, AngularJS, React.js, JavaScript, Scrum, Front-End Development, Vue.js, Docker Products  
 **Notable Projects:**
 - **Elly**
 - **EllyPay**

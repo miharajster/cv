@@ -65,12 +65,19 @@ I thrive on challenges and love bringing ideas to life with cutting-edge technol
 ### Notable Partners
 <img src="https://raw.githubusercontent.com/miharajster/cv/main/lib/logos.png"/>
 
-KIA, VOLVO, Ericsson, goCrypto, Kriptomat, Optiweb, Greentube, European Union (EU) Government, Sava...
+KIA, VOLVO, Ericsson, Hisense, Gorenje, goCrypto, Kriptomat, Optiweb, Greentube, European Union (EU) Government, Sava...
 
 ### Professional Projects
 
+#### Hisense Europa
+**Skills:** VueJS (Vue 3, Options API), SASS (BEM, ITCSS, OOCSS), Figma, Debian Linux, Nginx...
+**Notable Projects:**
+- Hisense IFA 2025 webpage
+- Gorenje IFA 2025 webpage
+- ASKO IFA 2025 webpage
+
 #### Kriptomat
-**Skills:** VueJS (Vue 3, Composition API), Nuxt, Pinia, Amplitude, PostHog.js, SASS (BEM, ITCSS, OOCSS), Figma, AI models traning and local solutions
+**Skills:** VueJS (Vue 3, Composition API), ReactNative, Nuxt, Pinia, Amplitude, PostHog.js, SASS (BEM, ITCSS, OOCSS), Figma
 
 #### Crypto2gold
 **Skills:** PHP, VueJS, Vuex
